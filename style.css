@@ -22,7 +22,7 @@
 }
 
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url("Images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -165,7 +165,7 @@ span{
 
 /* hero-section */
 .hero-section {
-    background-image: url(hero_image.jpg);
+    background-image: url("Images/hero_image.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -208,7 +208,7 @@ span{
 }
 
 .box1-img {
-    background-image: url(box1_image.jpg);
+    background-image: url("Images/box1_image.jpg");
     height: 300px;
     background-size: cover;
     margin-top: 1rem;
@@ -225,7 +225,7 @@ span{
 }
 
 .box2-img {
-    background-image: url(box2_image.jpg);
+    background-image: url("Images/box2_image.jpg");
     height: 300px;
     background-size: cover;
     margin-top: 1rem;
@@ -233,7 +233,7 @@ span{
 }
 
 .box3-img {
-    background-image: url(box3_image.jpg);
+    background-image: url("Images/box3_image.jpg");
     height: 300px;
     background-size: cover;
     margin-top: 1rem;
@@ -241,7 +241,7 @@ span{
 }
 
 .box4-img {
-    background-image: url(box4_image.jpg);
+    background-image: url("Images/box4_image.jpg");
     height: 300px;
     background-size: cover;
     margin-top: 1rem;
@@ -249,7 +249,7 @@ span{
 }
 
 .box5-img {
-    background-image: url(box5_image.jpg);
+    background-image: url("Images/box5_image.jpg");
     height: 300px;
     background-size: cover;
     margin-top: 1rem;
@@ -257,7 +257,7 @@ span{
 }
 
 .box6-img {
-    background-image: url(box6_image.jpg);
+    background-image: url("Images/box6_image.jpg");
     height: 300px;
     background-size: cover;
     margin-top: 1rem;
@@ -265,7 +265,7 @@ span{
 }
 
 .box7-img {
-    background-image: url(box7_image.jpg);
+    background-image: url("Images/box7_image.jpg");
     height: 300px;
     background-size: cover;
     margin-top: 1rem;
@@ -273,7 +273,7 @@ span{
 }
 
 .box8-img {
-    background-image: url(box8_image.jpg);
+    background-image: url("Images/box8_image.jpg");
     height: 300px;
     background-size: cover;
     margin-top: 1rem;
@@ -324,7 +324,7 @@ ul a {
 }
 
 .logo {
-    background-image: url(amazon_logo.png);
+    background-image: url("Images/amazon_logo.png");
     height: 50px;
     width: 100px;
     background-size: cover;
